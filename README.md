@@ -6,11 +6,11 @@
 Statistics, BSc.
 
 ### Experience
-- **Working Student Data Management** @ *Human8*
+- **Working Student Data Management @ *Human8***
   - R, VBA and SPSS automation, Data control, Power BI Reports
-- **Working Student Business Intelligence** @ *Finanzchef24*
+- **Working Student Business Intelligence @ *Finanzchef24***
   - Power BI Reports, Ad hoc analysis, MySQL data bank management
-- **Assistant** @ *Bayerische Staatsbibliothek München*
+- **Assistant @ *Bayerische Staatsbibliothek München***
 
 ### Projects
 - BA Thesis: Survey on Continual Learning
