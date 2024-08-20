@@ -7,9 +7,9 @@ Statistics, BSc.
 
 ### Experience
 - **Werkstudent Data Management** @ *Human8*
-  R- und VBA-Automatisierungsskripte, Datenkontrolle, Power BI Reports, erste Erfahrungen mit SPSS
+  - R- und VBA-Automatisierungsskripte, Datenkontrolle, Power BI Reports, erste Erfahrungen mit SPSS
 - **Werkstudent Business Intelligence** @ *Finanzchef24*
-  Power BI Reports, Ad hoc Analysen, MySQL-Datenbankpflege
+  - Power BI Reports, Ad hoc Analysen, MySQL-Datenbankpflege
 - **Hilfskraft** @ *Bayerische Staatsbibliothek München*
 
 ### Projects
