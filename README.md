@@ -10,7 +10,7 @@ Staistics, BSc.
   - R, VBA and SPSS automation, Data control, Power BI Reports
 - **Working Student, Business Intelligence @ Finanzchef24 *(January 2019 - June 2019)***
   - Power BI Reports, Ad hoc analysis, MySQL data bank management
-- **Assistant @ *Bayerische Staatsbibliothek München *(April 2017 - December 2019)***
+- **Assistant @ Bayerische Staatsbibliothek München *(April 2017 - December 2019)***
 
 ### Projects
 - BA Thesis: Survey on Continual Learning
