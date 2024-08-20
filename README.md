@@ -3,7 +3,7 @@
 **Technical Skills: R, MS PowerBI, Python, MySQL, SPSS, JAVA**
 
 ### Education
-Statistics, BSc. (April 2025) 
+Staistics, BSc. 
 
 ### Experience
 - **Working Student, Data Management @ Human8 *(June 2022 - May 2024)***
