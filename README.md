@@ -3,7 +3,7 @@
 **Technical Skills: R, MS PowerBI, Python, MySQL, SPSS, JAVA**
 
 ### Education
-Staistics, BSc. 
+Staistics, BSc.  Ludwig-Maximilian Universität, München
 
 ### Experience
 - **Working Student, Data Management @ Human8 *(June 2022 - May 2024)***
