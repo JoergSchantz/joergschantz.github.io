@@ -3,14 +3,14 @@
 **Technical Skills: R, MS PowerBI, Python, MySQL, SPSS, JAVA**
 
 ### Education
-Statistics, BSc.
+Statistics, BSc. (April 2025) 
 
 ### Experience
-- **Working Student Data Management @ *Human8***
+- **Working Student, Data Management @ Human8 *(June 2022 - May 2024)***
   - R, VBA and SPSS automation, Data control, Power BI Reports
-- **Working Student Business Intelligence @ *Finanzchef24***
+- **Working Student, Business Intelligence @ Finanzchef24 *(January 2019 - June 2019)***
   - Power BI Reports, Ad hoc analysis, MySQL data bank management
-- **Assistant @ *Bayerische Staatsbibliothek München***
+- **Assistant @ *Bayerische Staatsbibliothek München *(April 2017 - December 2019)***
 
 ### Projects
 - BA Thesis: Survey on Continual Learning
