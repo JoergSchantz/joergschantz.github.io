@@ -1,6 +1,6 @@
 # Statistician
 
-**Technical Skills: R, MS PowerBI, Python, MySQL, SPSS, JAVA**
+**Technical Skills: R, Python, MS PowerBI, MySQL, SPSS, JAVA**
 
 ### Education
 Statistics, BSc. &emsp; Ludwig-Maximilian Universität, München
@@ -17,12 +17,13 @@ Statistics, BSc. &emsp; Ludwig-Maximilian Universität, München
 - **Assistant @ Bayerische Staatsbibliothek München *(April 2017 - December 2019)***
 
 ### Projects
-- BA Thesis: Survey on Continual Learning
-- R-Package: kmeans-Hobbit
+- Implementaion: One-layer-Classifier in python
+- BA Thesis: [Survey on Continual Learning] (https://github.com/JoergSchantz/Survey_On_Continual_Learning)
+- R-Package: [kmeans-Hobbit] (https://github.com/JoergSchantz/kmeansj)
 - Project paper: Grafical Concepts for Visualizing Uncertainty
 
 ### Hobbys
 I practice and teach Judo at my local sports club, SV Lohhof, to kids and adults.
-My tasks at the club involve organizing tournaments, training camps and managing communications with our club members.
+Aside from being a coach, I vulnteered as "Jugendleitung" from 2018 to 2025. My tasks at the club involved organizing tournaments, training camps and managing communications with our club members.
 
 I hold a C-level coaching certificate from the DOSB, a 3rd degree black belt and a Kyu grading licence.
