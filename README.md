@@ -18,8 +18,8 @@ Statistics, BSc. &emsp; Ludwig-Maximilian Universität, München
 
 ### Projects
 - Implementaion: One-layer-Classifier in python
-- BA Thesis: [Survey on Continual Learning] (https://github.com/JoergSchantz/Survey_On_Continual_Learning)
-- R-Package: [kmeans-Hobbit] (https://github.com/JoergSchantz/kmeansj)
+- BA Thesis: [Survey on Continual Learning](https://github.com/JoergSchantz/Survey_On_Continual_Learning)
+- R-Package: [kmeans-Hobbit](https://github.com/JoergSchantz/kmeansj)
 - Project paper: Grafical Concepts for Visualizing Uncertainty
 
 ### Hobbys
