@@ -1,6 +1,8 @@
 # Statistician
 
-**Technical Skills: R, Python, MS PowerBI, MySQL, SPSS, JAVA**
+**Technical Skills: R, Python, MS PowerBI, MySQL, SPSS, JAVA, MS Office**
+
+**Languages: German (native), English (C1), French (B1)**
 
 ### Education
 Statistics, BSc. &emsp; Ludwig-Maximilian Universität, München
@@ -9,15 +11,15 @@ Statistics, BSc. &emsp; Ludwig-Maximilian Universität, München
 - **Working Student @ Human8 *(June 2022 - May 2024)***
   - R, VBA and SPSS automation
   - Data control
-  - Power BI Reports
+  - Power-BI Reports
 - **Working Student @ Finanzchef24 *(January 2019 - June 2019)***
-  - Power BI Reports
+  - Power-BI Reports
   - Ad hoc analysis
   - MySQL data bank management
 - **Assistant @ Bayerische Staatsbibliothek München *(April 2017 - December 2019)***
 
 ### Projects
-- Implementaion: One-layer-Classifier in python
+- Implementaion: [One-layer-Classifier](https://github.com/JoergSchantz/NeuralNetwork) (python 3.14)
 - BA Thesis: [Survey on Continual Learning](https://github.com/JoergSchantz/Survey_On_Continual_Learning)
 - R-Package: [kmeans-Hobbit](https://github.com/JoergSchantz/kmeansj)
 - Project paper: Grafical Concepts for Visualizing Uncertainty
