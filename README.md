@@ -6,20 +6,17 @@
 
 ### Education
 <p style="line-height: 1;">
-  2017 - 2025 (break: 2019 - 2022)
-  
+  2017 - 2025 (break: 2019 - 2022) <br>  
   Statistics, BSc. &emsp; Ludwig-Maximilian Universität, München
 </p>
 
 <p style="line-height: 1;">
-  2015-2017
-  
+  2015-2017<br>   
   Mathematics, BSc. &emsp; Technische Universität, München
 </p>
 
 <p style="line-height: 1;">
-  2015
-  
+  2015<br>   
   Abitur &emsp; Carl-Orff Gymnasium, Unterschleißheim
 </p>
 
