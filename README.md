@@ -12,7 +12,7 @@
 </p>
 <p style="line-height: 1;">
    Mathematics, BSc. &emsp;&emsp;Technische Universität, München<br>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2015-2017
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2015 - 2017
 </p>
 
 <p style="line-height: 1;">
