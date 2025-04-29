@@ -5,20 +5,32 @@
 **Languages: German (native), English (C1), French (B1)**
 
 ### Education
-<p style="line-height: 1;">
-  Statistics, BSc.&emsp;&emsp;&emsp;&ensp;Ludwig-Maximilian Universität, München<br>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2017 - 2025 (break: 2019 - 2022) 
-
-</p>
-<p style="line-height: 1;">
-   Mathematics, BSc.&emsp;&ensp;Technische Universität, München<br>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2015 - 2017
-</p>
-
-<p style="line-height: 1;">
-   Abitur &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Carl-Orff Gymnasium, Unterschleißheim<br>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2015
-</p>
+<table border="0">
+	<tr>
+		<td>Statsictics, BSc.</td>
+		<td>Ludwig-Maximilian Universität, München</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>2017 - 2025 (break: 2019 - 2022) </td>
+	</tr>
+	<tr>
+		<td>Mathematics, BSc.</td>
+		<td>Technische Universität, München</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>2015-2017</td>
+	</tr>
+	<tr>
+		<td>Abitur</td>
+		<td>Carl-Orff Gymnasium, Unterschleißheim</td>
+	</tr>
+		<tr>
+		<td></td>
+		<td>2015</td>
+	</tr>
+</table>
 
 ### Experience
 - **Working Student @ Human8 *(June 2022 - May 2024)***
