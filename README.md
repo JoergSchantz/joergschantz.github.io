@@ -5,9 +5,9 @@
 **Languages: German (native), English (C1), French (B1)**
 
 ### Education
-<table cellspacing="0" cellpadding="0">
+<table>
 	<tr>
-		<td>Statsictics, BSc.</td>
+		<td>Statistics, BSc.</td>
 		<td>Ludwig-Maximilian Universität, München</td>
 	</tr>
 	<tr>
@@ -20,7 +20,7 @@
 	</tr>
 	<tr>
 		<td></td>
-		<td>2015-2017</td>
+		<td>2015 - 2017</td>
 	</tr>
 	<tr>
 		<td>Abitur</td>
