@@ -5,7 +5,7 @@
 **Languages: German (native), English (C1), French (B1)**
 
 ### Education
-<table border="0">
+<table cellspacing="0" cellpadding="0">
 	<tr>
 		<td>Statsictics, BSc.</td>
 		<td>Ludwig-Maximilian Universität, München</td>
