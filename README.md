@@ -5,7 +5,23 @@
 **Languages: German (native), English (C1), French (B1)**
 
 ### Education
-Statistics, BSc. &emsp; Ludwig-Maximilian Universität, München
+<p style="line-height: 1;">
+  2017 - 2025 (break: 2019 - 2022)
+  
+  Statistics, BSc. &emsp; Ludwig-Maximilian Universität, München
+</p>
+
+<p style="line-height: 1;">
+  2015-2017
+  
+  Mathematics, BSc. &emsp; Technische Universität, München
+</p>
+
+<p style="line-height: 1;">
+  2015
+  
+  Abitur &emsp; Carl-Orff Gymnasium, Unterschleißheim
+</p>
 
 ### Experience
 - **Working Student @ Human8 *(June 2022 - May 2024)***
