@@ -7,7 +7,7 @@
 ### Education
 <p style="line-height: 1;">
   2017 - 2025 (break: 2019 - 2022) <br>  
-  Statistics, BSc. &emsp; &emsp; &emsp; Ludwig-Maximilian Universität, München
+  Statistics, BSc. &emsp; &emsp; Ludwig-Maximilian Universität, München
 </p>
 
 <p style="line-height: 1;">
@@ -17,7 +17,7 @@
 
 <p style="line-height: 1;">
   2015<br>   
-  Abitur &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Carl-Orff Gymnasium, Unterschleißheim
+  Abitur &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; Carl-Orff Gymnasium, Unterschleißheim
 </p>
 
 ### Experience
