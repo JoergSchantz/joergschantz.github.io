@@ -6,12 +6,12 @@
 
 ### Education
 <p style="line-height: 1;">
-  Statistics, BSc. &emsp;&emsp;&emsp;&emsp;Ludwig-Maximilian Universität, München<br>
+  Statistics, BSc.&emsp;&emsp;&emsp;&emsp;Ludwig-Maximilian Universität, München<br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2017 - 2025 (break: 2019 - 2022) 
 
 </p>
 <p style="line-height: 1;">
-   Mathematics, BSc. &emsp;&emsp;Technische Universität, München<br>
+   Mathematics, BSc.&emsp;&emsp;Technische Universität, München<br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2015 - 2017
 </p>
 
