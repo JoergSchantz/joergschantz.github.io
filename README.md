@@ -6,17 +6,17 @@
 
 ### Education
 <p style="line-height: 1;">
-  Statistics, BSc.&emsp;&emsp;&emsp;&emsp;Ludwig-Maximilian Universität, München<br>
+  Statistics, BSc.&emsp;&emsp;&emsp;&ensp;Ludwig-Maximilian Universität, München<br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2017 - 2025 (break: 2019 - 2022) 
 
 </p>
 <p style="line-height: 1;">
-   Mathematics, BSc.&emsp;&emsp;Technische Universität, München<br>
+   Mathematics, BSc.&emsp;&ensp;Technische Universität, München<br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2015 - 2017
 </p>
 
 <p style="line-height: 1;">
-   Abitur &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Carl-Orff Gymnasium, Unterschleißheim<br>
+   Abitur &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Carl-Orff Gymnasium, Unterschleißheim<br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2015
 </p>
 
