@@ -6,18 +6,18 @@
 
 ### Education
 <p style="line-height: 1;">
-  2017 - 2025 (break: 2019 - 2022) <br>  
-  Statistics, BSc. &emsp; &emsp;&emsp;Ludwig-Maximilian Universität, München
+  Statistics, BSc. &emsp; &emsp;&emsp; Ludwig-Maximilian Universität, München<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2017 - 2025 (break: 2019 - 2022) 
+
+</p>
+<p style="line-height: 1;">
+   Mathematics, BSc. &emsp;Technische Universität, München<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2015-2017
 </p>
 
 <p style="line-height: 1;">
-  2015-2017<br>   
-  Mathematics, BSc. &emsp; Technische Universität, München
-</p>
-
-<p style="line-height: 1;">
-  2015<br>   
-  Abitur &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; Carl-Orff Gymnasium, Unterschleißheim
+   Abitur &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Carl-Orff Gymnasium, Unterschleißheim<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2015
 </p>
 
 ### Experience
