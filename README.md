@@ -7,7 +7,7 @@
 ### Education
 <p style="line-height: 1;">
   2017 - 2025 (break: 2019 - 2022) <br>  
-  Statistics, BSc. &emsp; &emsp; &emsp;Ludwig-Maximilian Universität, München
+  Statistics, BSc. &emsp; &emsp;&emsp;Ludwig-Maximilian Universität, München
 </p>
 
 <p style="line-height: 1;">
