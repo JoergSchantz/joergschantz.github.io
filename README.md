@@ -5,15 +5,15 @@
 **Languages: German (native), English (C1), French (B1)**
 
 ### Experience
-- **Working Student @ Human8 *(Jun 2022 - May 2024)***
+- **Working Student @ Human8 *(2 years)***
   - R, VBA and SPSS automation
   - Data control
   - Power-BI Reports
-- **Working Student @ Finanzchef24 *(Jan 2019 - June2019)***
+- **Working Student @ Finanzchef24 *(1/2 year)***
   - Power-BI Reports
   - Ad hoc analysis
   - MySQL data bank management
-- **Assistant @ Bayerische Staatsbibliothek München *(Apr 2017 - Dec 2019)***
+- **Assistant @ Bayerische Staatsbibliothek München *(1 1/2 yeras)***
 
 ### Projects
 - Implementation: [One-layer-Classifier](https://github.com/JoergSchantz/NeuralNetwork) (python 3.14)
@@ -29,23 +29,7 @@
 	</tr>
 	<tr>
 		<td></td>
-		<td>2017 - 2025 (break: 2019 - 2022) </td>
-	</tr>
-	<tr>
-		<td>Mathematics, BSc.</td>
-		<td>Technische Universität München</td>
-	</tr>
-	<tr>
-		<td></td>
-		<td>2015 - 2017</td>
-	</tr>
-	<tr>
-		<td>Abitur</td>
-		<td>Carl-Orff Gymnasium Unterschleißheim</td>
-	</tr>
-		<tr>
-		<td></td>
-		<td>2015</td>
+		<td>2025</td>
 	</tr>
 </table>
 
