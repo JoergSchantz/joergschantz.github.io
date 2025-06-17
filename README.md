@@ -26,15 +26,12 @@
 	<tr>
 		<td>Statistics, BSc.</td>
 		<td>Ludwig-Maximilian Universität München</td>
-	</tr>
-	<tr>
-		<td></td>
 		<td>2025</td>
 	</tr>
 </table>
 
 ### Hobbys
 I practice and teach Judo at my local sports club, SV Lohhof, to kids and adults.
-Aside from being a coach, I volunteered as "Jugendleitung" from 2018 to 2025. My tasks involved organizing tournaments, training camps and managing communications with our club members.
+Aside from being a coach, I volunteered as "Jugendleitung" for 8 years. My tasks involved organizing tournaments, training camps and managing communications with our club members.
 
 I hold a C-level coaching certificate from the DOSB, a 2nd degree black belt and a Kyu grading licence.
