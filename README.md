@@ -26,7 +26,7 @@
 	<tr>
 		<td>Statistics, BSc.</td>
 		<td>Ludwig-Maximilian Universität München</td>
-		<td>2025</td>
+		<td>Sep. 2025</td>
 	</tr>
 </table>
 
