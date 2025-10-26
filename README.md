@@ -16,13 +16,18 @@
 - **Assistant @ Bayerische Staatsbibliothek München *(1 1/2 yeras)***
 
 ### Projects
-- Implementation: [One-layer-Classifier](https://github.com/JoergSchantz/NeuralNetwork) (python 3.14)
+- Implementation: [One-layer-Classifier](https://github.com/JoergSchantz/NeuralNetwork)
 - BA Thesis: [Survey on Regularizations Methods in Continual Learning](https://github.com/JoergSchantz/Survey_On_Continual_Learning)
 - R-Package: [kmeans-Hobbit](https://github.com/JoergSchantz/kmeansj)
 - Project paper: Grafical Concepts for Visualizing Uncertainty
 
 ### Education
 <table>
+	<tr>
+		<td>Statistics & Data Science, MSc.</td>
+		<td>Johannes Kepler Universität Linz</td>
+		<td>Ongoing</td>
+	</tr>
 	<tr>
 		<td>Statistics, BSc.</td>
 		<td>Ludwig-Maximilian Universität München</td>
